@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aswincsekar.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/aswincsekar.github.io/static/js/main.a06047e3.chunk.js",
+    "main.js.map": "/aswincsekar.github.io/static/js/main.a06047e3.chunk.js.map",
+    "runtime-main.js": "/aswincsekar.github.io/static/js/runtime-main.ca0adec3.js",
+    "runtime-main.js.map": "/aswincsekar.github.io/static/js/runtime-main.ca0adec3.js.map",
+    "static/js/2.85ebbe7b.chunk.js": "/aswincsekar.github.io/static/js/2.85ebbe7b.chunk.js",
+    "static/js/2.85ebbe7b.chunk.js.map": "/aswincsekar.github.io/static/js/2.85ebbe7b.chunk.js.map",
+    "index.html": "/aswincsekar.github.io/index.html",
+    "precache-manifest.b03289ece427d4b1d5d8267fc4feee4a.js": "/aswincsekar.github.io/precache-manifest.b03289ece427d4b1d5d8267fc4feee4a.js",
+    "service-worker.js": "/aswincsekar.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/aswincsekar.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.85ebbe7b.chunk.js.LICENSE.txt": "/aswincsekar.github.io/static/js/2.85ebbe7b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/aswincsekar.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0adec3.js",
+    "static/js/2.85ebbe7b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a06047e3.chunk.js"
+  ]
+}
