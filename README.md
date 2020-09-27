@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,32 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# jekyll-theme-hackcss
+
+[Dead simple CSS framework](http://hackcss.com/) now with Jekyll.
+
+Mobile-ready, modern, stylish, simple.
+
+## Theme modes
+
+This theme comes in three modes, which could be configured in `_config.yml`.
+
+![Standard](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/standard.png)
+
+![Dark](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/dark.png)
+
+![Markdown](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/markdown.png)
+
+## Installation
+
+Clone this repo. Create your own website. Easy.
+
+## Configuration
+
+See [docs](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
+
+## License
+
+GNU PGL 3. See [LICENSE](https://github.com/wemake-services/jekyll-theme-hackcss/blob/3cbe97b71a56a19eba386dd928e125b71e50c71e/LICENSE) for more information.
+>>>>>>> 1e3c29d037952f8f69f3d054901b79ce30b224b8
