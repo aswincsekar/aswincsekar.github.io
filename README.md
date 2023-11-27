@@ -6,16 +6,22 @@ Designing a highly scalable resilient event driven processing system
 
 ## What am I following in the world now?
 
-US Elections
+DistSys
 
-Covid19
+Ukraine Invasion
 
 Formula1
 
-Ed Tech Companies
+IOT Companies
 
 EV Tech
+
 
 ## Want to reach me?
 
 aswincsekar[at]gmail[dot]com
+
+
+# Articles
+
+1. [mysql to pubsub](https://aswincsekar.github.io/mysql-to-pubsub)
