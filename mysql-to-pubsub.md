@@ -1,5 +1,6 @@
 # Integrating Debezium with MySQL and Google Cloud Pub/Sub
 
+![Alt text](./static/image.png)
 This document provides guidance on configuring Debezium Server for capturing data changes from a MySQL database and publishing them to Google Cloud Pub/Sub. The setup includes Kubernetes deployment configuration and a dedicated `application.properties` file for Debezium.
 
 ## Kubernetes Deployment Configuration
