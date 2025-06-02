@@ -25,3 +25,4 @@ aswincsekar[at]gmail[dot]com
 ## Articles
 
 1. [mysql to pubsub](https://aswincsekar.github.io/mysql-to-pubsub)
+2. [ssl update on jenkins](https://aswincsekar.github.io/ssl-update-jenkins)
